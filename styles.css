@@ -20,7 +20,9 @@ body {
 
 h1 {
 
-  font: 26pt Playfair Display, Times New Roman, sans-serif;
+  font: 26pt;
+  
+  font-family: Playfair Display, Times New Roman, sans-serif;
 
   font-weight: bold;
 

@@ -20,11 +20,31 @@ body {
 
 h1 {
 
-  font: 26pt;
+  font: 28pt;
   
-  font-family: Playfair Display, Times New Roman, sans-serif;
+  font-family: Work Sans, sans-serif;
 
-  font-weight: bold;
+  line-height: 20pt;
+
+}
+
+
+h2 {
+
+  font: 22pt;
+  
+  font-family: Work Sans, sans-serif;
+
+  line-height: 20pt;
+
+}
+
+
+h3 {
+
+  font: 20pt;
+  
+  font-family: Work Sans, sans-serif;
 
   line-height: 20pt;
 

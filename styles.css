@@ -1,8 +1,10 @@
 body {
 
   font-size: 14pt;
-
-  font-family: Source Sans Pro, Helvetica, sans-serif;
+  
+  font-family: 'Work Sans', sans-serif;
+  
+  font-weight: 'Light';
 
   color: black;
 
@@ -22,7 +24,7 @@ h1 {
 
   font: 28pt;
   
-  font-family: Work Sans, sans-serif;
+  font-family: 'Work Sans', sans-serif;
 
   line-height: 20pt;
 
